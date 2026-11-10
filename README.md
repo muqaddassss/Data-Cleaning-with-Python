@@ -1,4 +1,4 @@
-# Task 1 – Data Cleaning with Python
+# Data Cleaning with Python
 
 ## Project Overview
 
